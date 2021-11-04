@@ -17,15 +17,15 @@ public class CreateAccountTest extends TestBase {
         }
     }
 
-    @Test()
+    @Test
     public void registrationPositiveTest() {
         //click on Login
         app.getUser().clickOnLoginTab();
         Assert.assertTrue(app.getUser().isLoginRegistrationFormPresent());
         //fill registration form
         app.getUser().createNewAccount(new User()
-                .setEmail("kroos@gm.com")
-                .setPassword("Kroos12345~"));
+                .setEmail("kroozzs@gm.com")
+                .setPassword("Kroozzs12345~"));
         //check Logout button displayed
         Assert.assertTrue(app.getUser().isSignOutTabPresent());
     }

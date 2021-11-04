@@ -1,0 +1,24 @@
+19:18:29.462 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromCSVTestwith data: [Contact{phone='5498765123', email='ol1@gm.cm'}]
+19:18:45.073 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromCSVTest
+19:18:45.074 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:45.075 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromCSVTestwith data: [Contact{phone='54987651231', email='ol2@gm.cma'}]
+19:18:49.032 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromCSVTest
+19:18:49.033 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:49.034 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromCSVTestwith data: [Contact{phone='54987651232', email='ol3@gm.cmb'}]
+19:18:52.980 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromCSVTest
+19:18:52.980 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:52.982 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromCSVTestwith data: [Contact{phone='54987651233', email='ol4@gm.cmc'}]
+19:18:56.919 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromCSVTest
+19:18:56.920 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:56.923 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromDataProviderTestwith data: [Oliver, Kan, 98765432987, kan@gm.co, Dresden, goalkeeper]
+19:18:58.760 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromDataProviderTest
+19:18:58.760 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:58.761 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromDataProviderTestwith data: [Oliver, Kan, 98765432983, kan+1@gm.co, Dresden, goalkeeper]
+19:18:59.017 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method addContactPositiveFromDataProviderTest
+19:18:59.017 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:18:59.019 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveFromDataProviderTestwith data: [Oliver, Kan, 98765432975, kan+2@gm.co, Dresden, goalkeeper]
+19:19:01.012 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveFromDataProviderTest
+19:19:01.012 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+19:19:01.016 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveTestwith data: []
+19:19:11.229 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method addContactPositiveTest
+19:19:11.230 [main] INFO  com.telran.contact.tests.TestBase - ========================================================

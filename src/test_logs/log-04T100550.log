@@ -1,0 +1,3 @@
+10:05:54.758 [main] INFO  com.telran.contact.tests.TestBase - Start testregistrationPositiveTest
+10:05:55.978 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method registrationPositiveTest
+10:05:55.978 [main] INFO  com.telran.contact.tests.TestBase - ==========================

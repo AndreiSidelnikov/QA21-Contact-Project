@@ -1,0 +1,2 @@
+09:57:36.326 [main] INFO  com.telran.contact.tests.TestBase - Start testloginRegisteredUserNegativeWithWrongPasswordTest
+09:57:37.811 [main] INFO  com.telran.contact.tests.TestBase - Stop testloginRegisteredUserNegativeWithWrongPasswordTest
