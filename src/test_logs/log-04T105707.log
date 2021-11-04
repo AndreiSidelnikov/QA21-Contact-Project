@@ -1,9 +1,0 @@
-10:57:12.669 [main] INFO  com.telran.contact.tests.TestBase - Start testaddContactFromDataProviderTestwith data: [Oliver, Kana, 9876543321, kan@gm.co, Dresden, goalkeeper]
-10:57:25.863 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test methodaddContactFromDataProviderTest
-10:57:25.864 [main] INFO  com.telran.contact.tests.TestBase - ==========================
-10:57:25.866 [main] INFO  com.telran.contact.tests.TestBase - Start testaddContactFromDataProviderTestwith data: [Oliver, Kanb, 98765433212, kann@gm.co, Dresden, goalkeeper]
-10:57:36.062 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method addContactFromDataProviderTest
-10:57:36.063 [main] INFO  com.telran.contact.tests.TestBase - ==========================
-10:57:36.066 [main] INFO  com.telran.contact.tests.TestBase - Start testaddContactFromDataProviderTestwith data: [Oliver, Kanc, 98765433213, kannn@gm.co, Dresden, goalkeeper]
-10:57:38.018 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test methodaddContactFromDataProviderTest
-10:57:38.018 [main] INFO  com.telran.contact.tests.TestBase - ==========================
