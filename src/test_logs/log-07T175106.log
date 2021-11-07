@@ -1,0 +1,18 @@
+17:51:10.677 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@3a80515c]
+17:51:12.553 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:12.554 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+17:51:12.556 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@7f4d9395]
+17:51:14.216 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:14.217 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+17:51:14.222 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@1d2644e3]
+17:51:15.869 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:15.870 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+17:51:15.878 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@a0a9fa5]
+17:51:17.507 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:17.507 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+17:51:17.511 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@5d235104]
+17:51:19.134 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:19.135 [main] INFO  com.telran.contact.tests.TestBase - ========================================================
+17:51:19.140 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeCSVTestwith data: [com.telran.contact.models.User@c81fd12]
+17:51:20.745 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeCSVTest
+17:51:20.745 [main] INFO  com.telran.contact.tests.TestBase - ========================================================

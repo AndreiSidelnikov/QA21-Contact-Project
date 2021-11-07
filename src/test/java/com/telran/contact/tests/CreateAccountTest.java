@@ -1,8 +1,10 @@
 package com.telran.contact.tests;
 
+import com.telran.contact.fw.DataProviders;
 import com.telran.contact.models.User;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class CreateAccountTest extends TestBase {
@@ -39,6 +41,19 @@ public class CreateAccountTest extends TestBase {
         app.getUser().createNewAccount(new User()
                 .setEmail("kroos@gm.com"));
         //check Logout button displayed
+        Assert.assertTrue(app.getUser().isAlertPresent());
+    }
+
+    @Test (dataProvider = "newUserFromCSV", dataProviderClass = DataProviders.class)
+
+    public void registrationNegativeCSVTest(User user) throws InterruptedException {
+
+        app.getUser().clickOnLoginTab();
+        Assert.assertTrue(app.getUser().isLoginRegistrationFormPresent());
+        //fill registration form
+        app.getUser().createNewAccount(user);
+        //check Logout button displayed
+        Thread.sleep(1000);
         Assert.assertTrue(app.getUser().isAlertPresent());
     }
 
