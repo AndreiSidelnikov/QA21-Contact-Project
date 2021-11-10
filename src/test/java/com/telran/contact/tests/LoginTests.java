@@ -23,7 +23,7 @@ public class LoginTests extends TestBase {
         Assert.assertTrue(app.getUser().isLoginRegistrationFormPresent());
         //fill Login form
         app.getUser().login(new User()
-                .setEmail("kroos@gm.com")
+                .setEmail("kroozs@gm.com")
                 .setPassword("Kroos12345~"));
         //Assert user loggedIn
         Assert.assertTrue(app.getUser().isSignOutTabPresent());
